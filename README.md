@@ -4,6 +4,6 @@
 
 ## Domain Model
 
-* Bike --> is_working? --> true || false
+* Bike <-- is_working? --> true || false
 
-* DockingStation --> release_bike --> Bike
+* DockingStation <-- release_bike --> Bike
