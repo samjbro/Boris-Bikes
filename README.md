@@ -2,7 +2,7 @@
 
 ##### _This is the first project of Week 1 at Makers Academy._
 
-### User Stories for Project
+### User Stories for project Boris Bikes
 
     As a person,
     So that I can use a bike,
