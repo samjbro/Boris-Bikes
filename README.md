@@ -4,6 +4,7 @@
 
 ## Domain Model
 
-* Bike --> is_working? --> true || false
 
-* DockingStation --> release_bike --> Bike
+* Bike ← is_working? → true || false
+
+* DockingStation ← release_bike → a Bike
