@@ -2,7 +2,7 @@
 
 #### This is the first project of Week 1 at Makers Academy.
 
-## Domain Model
+## Domain Model for project
 
 
 * Bike ← is_working? → true || false
