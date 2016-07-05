@@ -13,7 +13,6 @@
     I'd like to see if a bike is working
 
 ### Domain Model for project
-<br>
 
 * Bike ← is_working? → true || false
 
