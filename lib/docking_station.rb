@@ -6,6 +6,7 @@ class DockingStation
 	# 	@docked_bike = Bike.new
 	# end
   def release_bike
+    fail "No bikes avalible"
     Bike.new
   end
 
