@@ -17,3 +17,4 @@
 * Bike ← is_working? → true || false
 
 * DockingStation ← release_bike → a Bike
+The Week 1 - Thursday branch
