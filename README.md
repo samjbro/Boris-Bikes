@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Boris Bikes**
 
 ##### _This is the first project of Week 1 at Makers Academy._
@@ -18,3 +19,8 @@
 
 * DockingStation ← release_bike → a Bike
 The Week 1 - Thursday branch
+=======
+# Boris Bikes
+This is the Boris Bikes project!
+test
+>>>>>>> f0413d988bd0bb51fd7cc15a2206b720c42ce48c
